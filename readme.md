@@ -2,7 +2,7 @@
 
 The build script is a tool that optimizes your code for production use on the web.
 
-It has been customised for use by me in my projects and so as the following configurations
+It has been customised for use by me in my projects and so has the following configurations
 
 * This should be placed in a subdirectory in html5bp (i.e. /source/build)
 * The publsih folder has been set to /public
